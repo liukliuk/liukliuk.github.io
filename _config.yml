@@ -1,0 +1,9 @@
+encoding: utf-8
+
+exclude:
+  - README.md
+
+gems:
+  - jekyll-sitemap
+
+markdown: kramdown
