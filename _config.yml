@@ -1,10 +1,10 @@
 encoding: utf-8
 
-ignore:
-  - styles
-
 exclude:
+  - package.json
+  - postcss.json
   - README.md
+  - src
 
 gems:
   - jekyll-sitemap
