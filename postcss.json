@@ -2,12 +2,11 @@
   "use": [
     "postcss-import",
     "autoprefixer",
-    "rucksack-css",
     "precss"
   ],
-  "input": "styles/main.scss",
-  "output": "public/style.css",
-  "from": "styles",
+  "input": "src/styles/main.scss",
+  "output": "assets/css/style.css",
+  "from": "src/styles",
   "local-plugins": true,
   "autoprefixer": {
     "browsers": "> 5%"
