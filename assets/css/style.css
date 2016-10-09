@@ -426,3 +426,8 @@ template {
 [hidden] {
   display: none;
 }
+
+img.anteprima {
+  width: 7rem;
+}
+
