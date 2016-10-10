@@ -4,12 +4,12 @@ ul {
 
 ul a:link {
   color: #333;
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 ul a:visited {
   color: #333;
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 ul a:hover {
