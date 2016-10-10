@@ -1,0 +1,9 @@
+.preview-container {
+  display: flex;
+  flex-wrap: nowrap;
+}
+
+.preview-item {
+  margin: 5px;
+  flex: 1 1 auto;
+}

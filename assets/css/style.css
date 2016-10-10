@@ -427,7 +427,35 @@ template {
   display: none;
 }
 
-img.anteprima {
-  width: 7rem;
+body {
+  font-family: "Helvetica", "Arial", sans-serif;
+  margin: 0 auto;
+  max-width: 100em;
+  line-height: 1.5;
+  padding: 4em 1em;
+  color: #555;
 }
 
+h1 {
+  margin-top: 2em;
+  padding-top: 2em;
+  color: #333;
+}
+
+h2 {
+  margin-top: 1em;
+  padding-top: 1em;
+  color: #333;
+}
+
+.preview-container {
+  display: -webkit-box;
+  display: flex;
+  flex-wrap: nowrap;
+}
+
+.preview-item {
+  margin: 5px;
+  -webkit-box-flex: 1;
+          flex: 1 1 auto;
+}
