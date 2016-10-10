@@ -452,14 +452,43 @@ ul {
   list-style-type: circle;
 }
 
+ul a:link {
+  color: #333;
+  text-decoration: underline;
+}
+
+ul a:visited {
+  color: #333;
+  text-decoration: underline;
+}
+
+ul a:hover {
+  color: #333;
+  text-decoration: underline;
+}
+
 .preview-container {
   display: -webkit-box;
   display: flex;
   flex-wrap: nowrap;
+  -webkit-box-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+          justify-content: center;
 }
 
 .preview-item {
-  margin: 5px;
+  margin: 2px;
   -webkit-box-flex: 1;
           flex: 1 1 auto;
+}
+
+.preview-item img {
+  width: 17rem;
+}
+
+@media only screen and (max-width: 768px) {
+  .preview-item img {
+    width: 8rem;
+  }
 }

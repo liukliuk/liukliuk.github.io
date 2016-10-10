@@ -1,3 +1,18 @@
 ul {
   list-style-type: circle;
 }
+
+ul a:link {
+  color: #333;
+  text-decoration: underline;
+}
+
+ul a:visited {
+  color: #333;
+  text-decoration: underline;
+}
+
+ul a:hover {
+  color: #333;
+  text-decoration: underline;
+}
