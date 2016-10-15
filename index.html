@@ -1,0 +1,27 @@
+---
+layout: page
+title: Home page
+---
+
+
+<h1><em>Luca Pianella</em></h1>
+
+<div id="cover"></div>
+
+<script>
+  var cover = document.getElementById('cover')
+
+  var possibleBackgrounds = [
+    'opere/ombre/Ombre-3-2012-matita-su-carta-50x60',
+    'opere/ombre-nature-morte/Ombre-II-2015-matita-su-carta-55x50',
+    'opere/ombre-volti/Ombre-V-2016-matita-su-carta-70x70',
+    'opere/ruggine/Ruggine-2-2009-matita-su-carta-50x60'
+  ]
+
+  var randomIndex = Math.floor(Math.random() * possibleBackgrounds.length)
+
+  var preview = ''
+  if (window.innerWidth < 680) { preview = '-anteprima' }
+
+  cover.style.backgroundImage = "url('" + possibleBackgrounds[randomIndex] + preview + ".jpg')"
+</script>

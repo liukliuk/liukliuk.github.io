@@ -430,6 +430,8 @@ template {
 /* Internal imports: load variables first. */
 
 body {
+  height: 100%;
+  width: 100%;
   font-family: "Helvetica", "Arial", sans-serif;
   color: #333;
 }
@@ -531,4 +533,11 @@ ul.topnav li.icon { display: none; }
   .preview-item img {
     width: 8rem;
   }
+}
+
+#cover {
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 80vh;
+  width: 100%;
 }
