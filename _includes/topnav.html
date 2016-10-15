@@ -1,21 +1,31 @@
 <ul class="topnav" id="myTopnav">
-  {% if page.title != "Home page" %}
+  {% if page.title == "Home page" %}
+    <li><a href="javascript:void(0)"><em>Luca Pianella</em></a></li>
+  {% else %}
     <li><a href="/"><em>Luca Pianella</em></a></li>
   {% endif %}
 
-  {% if page.title != "Ombre" %}
+  {% if page.title == "Ombre" %}
+    <li><a href="javascript:void(0)">Ruggine</a></li>
+  {% else %}
     <li><a href="/opere/ombre">Ombre</a></li>
   {% endif %}
 
-  {% if page.title != "Ombre, volti" %}
+  {% if page.title == "Ombre, volti" %}
+    <li><a href="javascript:void(0)">Ruggine</a></li>
+  {% else %}
     <li><a href="/opere/ombre-volti">Ombre, volti</a></li>
   {% endif %}
 
-  {% if page.title != "Ombre, nature morte" %}
+  {% if page.title == "Ombre, nature morte" %}
+    <li><a href="javascript:void(0)">Ruggine</a></li>
+  {% else %}
     <li><a href="/opere/ombre-nature-morte">Ombre, nature morte</a></li>
   {% endif %}
 
-  {% if page.title != "Ruggine" %}
+  {% if page.title == "Ruggine" %}
+    <li><a href="javascript:void(0)">Ruggine</a></li>
+  {% else %}
     <li><a href="/opere/ruggine">Ruggine</a></li>
   {% endif %}
 
