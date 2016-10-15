@@ -1,0 +1,37 @@
+<ul class="topnav" id="myTopnav">
+  {% if page.title != "Home page" %}
+    <li><a href="/"><em>Luca Pianella</em></a></li>
+  {% endif %}
+
+  {% if page.title != "Ombre" %}
+    <li><a href="/opere/ombre">Ombre</a></li>
+  {% endif %}
+
+  {% if page.title != "Ombre, volti" %}
+    <li><a href="/opere/ombre-volti">Ombre, volti</a></li>
+  {% endif %}
+
+  {% if page.title != "Ombre, nature morte" %}
+    <li><a href="/opere/ombre-nature-morte">Ombre, nature morte</a></li>
+  {% endif %}
+
+  {% if page.title != "Ruggine" %}
+    <li><a href="/opere/ruggine">Ruggine</a></li>
+  {% endif %}
+
+  <li class="icon">
+    <a href="javascript:void(0);" onclick="expandNav()">&#9776</a>
+  </li>
+</ul>
+
+<script>
+  function expandNav() {
+    var x = document.getElementById('myTopnav')
+
+    if (x.className === 'topnav') {
+        x.className += ' responsive'
+    } else {
+        x.className = 'topnav'
+    }
+  }
+</script>

@@ -1,6 +1,6 @@
 ---
-title: Home page
 layout: page
+title: Home page
 ---
 
 # Luca Pianella

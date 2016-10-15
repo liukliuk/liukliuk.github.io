@@ -7,9 +7,14 @@
   <meta name="keywords" content="artista,artist,art,arte,pittura,quadri,pictures">
   <meta name="description" content="Luca Pianella artist">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-  <title>Luca Pianella</title>
+  <title>Luca Pianella - {{ page.title }}</title>
   <link rel="stylesheet" type="text/css" href="/assets/css/style.css">
 </head>
-<body>{{ content }}</body>
-{% include lib/lightbox2.html %}
+<body>
+  {% include topnav.html %}
+
+  {{ content }}
+
+  {% include lib/lightbox2.html %}
+</body>
 </html>
