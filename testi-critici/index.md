@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Test Critici
+title: Testi Critici
 ---
 
 ## Sezione
