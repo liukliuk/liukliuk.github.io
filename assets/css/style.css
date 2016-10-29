@@ -432,7 +432,7 @@ template {
 body {
   height: 100%;
   width: 100%;
-  font-family: "Helvetica", "Arial", sans-serif;
+  font-family: "Verdana", "Geneva", sans-serif;
   color: #333;
 }
 
@@ -549,15 +549,52 @@ ul.topnav li.icon { display: none; }
   }
 }
 
+@-webkit-keyframes translateScroll {
+  0% {
+    opacity: 0;
+    -webkit-transform: none;
+            transform: none;
+  }
+
+  25% {
+    -webkit-transform: translate3d(5%, 0, 0);
+            transform: translate3d(5%, 0, 0);
+    opacity: 1;
+  }
+
+  100% {
+    -webkit-transform: translate3d(-15%, 0, 0);
+            transform: translate3d(-15%, 0, 0);
+    -webkit-transform: none;
+            transform: none;
+  }
+}
+
+@keyframes translateScroll {
+  0% {
+    opacity: 0;
+    -webkit-transform: none;
+            transform: none;
+  }
+
+  25% {
+    -webkit-transform: translate3d(5%, 0, 0);
+            transform: translate3d(5%, 0, 0);
+    opacity: 1;
+  }
+
+  100% {
+    -webkit-transform: translate3d(-15%, 0, 0);
+            transform: translate3d(-15%, 0, 0);
+    -webkit-transform: none;
+            transform: none;
+  }
+}
+
 #preview-container {
-  /* display with flex */
   display: -webkit-box;
   display: flex;
   flex-wrap: nowrap;
-  -webkit-box-align: center;
-          align-items: center;
-  -webkit-box-pack: center;
-          justify-content: center;
 
   /* horizontal scroll */
   overflow-y: hidden;
@@ -569,6 +606,12 @@ ul.topnav li.icon { display: none; }
   margin: 2px;
   -webkit-box-flex: 1;
           flex: 1 1 auto;
+
+  /* animate scroll so user can see there are more photos */
+  -webkit-animation-name: translateScroll;
+          animation-name: translateScroll;
+  -webkit-animation-duration: 12s;
+          animation-duration: 12s;
 }
 
 .preview-item img {
