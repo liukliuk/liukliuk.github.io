@@ -441,6 +441,41 @@ h1 {
   color: #333;
 }
 
+@-webkit-keyframes fadeInLeft {
+  from {
+    opacity: 0;
+    -webkit-transform: translate3d(-100%, 0, 0);
+            transform: translate3d(-100%, 0, 0);
+  }
+
+  to {
+    opacity: 1;
+    -webkit-transform: none;
+            transform: none;
+  }
+}
+
+@keyframes fadeInLeft {
+  from {
+    opacity: 0;
+    -webkit-transform: translate3d(-100%, 0, 0);
+            transform: translate3d(-100%, 0, 0);
+  }
+
+  to {
+    opacity: 1;
+    -webkit-transform: none;
+            transform: none;
+  }
+}
+
+.fadeInLeft {
+  -webkit-animation-name: fadeInLeft;
+          animation-name: fadeInLeft;
+  -webkit-animation-duration: 4s;
+          animation-duration: 4s;
+}
+
 /* Remove margins and padding from the list, and add a black background color */
 
 ul.topnav {
@@ -514,7 +549,8 @@ ul.topnav li.icon { display: none; }
   }
 }
 
-.preview-container {
+#preview-container {
+  /* display with flex */
   display: -webkit-box;
   display: flex;
   flex-wrap: nowrap;
@@ -522,6 +558,11 @@ ul.topnav li.icon { display: none; }
           align-items: center;
   -webkit-box-pack: center;
           justify-content: center;
+
+  /* horizontal scroll */
+  overflow-y: hidden;
+  overflow-x: scroll;
+  white-space: nowrap;
 }
 
 .preview-item {
