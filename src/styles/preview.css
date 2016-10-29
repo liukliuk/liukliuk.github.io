@@ -1,8 +1,14 @@
-.preview-container {
+#preview-container {
+  /* display with flex */
   display: flex;
   flex-wrap: nowrap;
   align-items: center;
   justify-content: center;
+
+  /* horizontal scroll */
+  overflow-y: hidden;
+  overflow-x: scroll;
+  white-space: nowrap;
 }
 
 .preview-item {
