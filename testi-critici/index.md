@@ -15,6 +15,10 @@ Daniela Ferrari - (Tratto dal catalogo mostra Della natura, della figura e il vo
 
 
 
+
+
+
+
 2016
 
 L'attento dosaggio di chiaro e oscuro che in tutta la storia dell'arte pittorica e grafica ha assunto innumerevoli
