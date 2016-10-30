@@ -3,7 +3,7 @@ layout: page
 title: Testi Critici
 ---
 
-## Sezione
+2015
 
 Con le sue nature morte, declinazione contemporanea e concettualmente rovesciata del tema della vanitas vanitatum, Luca Pianella desta stupore e meraviglia: sceglie oggetti che mai attirerebbero la nostra attenzione, rifiuti accartocciati che l’artista rappresenta con segno precisissimo e fitto, ma altrettanto pieno, il quale nel tempo si carica sempre più di grafite: le cose diventano quasi simulacri scurissimi di ciò che erano state. Una sorta di Elogio dell’ombra riferito agli oggetti.
 Questa poetica dell’oscurità interna alla materia prende il via nel 2009, dalla serie di opere intitolate Ruggine: in esse sono ancora presenti una costruzione volumetrica e una resa delle superfici scabrose – si intuisce, del metallo, la corrosione e il lentissimo sfogliarsi della sua pelle – che rispondono a una mirabile oggettività e a un raro talento nell’acribia documentaria, nell’analisi del dettaglio e nella capacità di usare il chiaroscuro.
@@ -12,8 +12,10 @@ Il recente passaggio alla natura morta di più tradizionale concezione non era a
 
 Daniela Ferrari - (Tratto dal catalogo mostra Della natura, della figura e il volto, Palazzo Trentini, Trento, 2015)
 
-## Sezione 2
 
+
+
+2016
 
 L'attento dosaggio di chiaro e oscuro che in tutta la storia dell'arte pittorica e grafica ha assunto innumerevoli
 combinazioni – dalla più cristallina alla più offuscata – nel lavoro di Luca Pianella raggiunge una netta polarizzazione. Il campo del foglio rimane un tutto luminoso, incontaminato dai segni della matita, mentre lo spazio dell'oggetto rappresentato assomma in sé tutti i toni della composizione come se l'oscurità, solitamente distribuita elegantemente su tutte le porzioni del supporto, venisse qui rudemente addebitata all'oggetto, incaricato da solo di sopportarne l'intero peso.
@@ -32,5 +34,5 @@ stratificazioni di grafite e microsfumature sui toni del nero, assume le sembian
 neppure i barlumi di lucentezze riflesse riescono a ravvivare.
  
  
-(Etratto da: testo critico mostra De luce lucem proferens, Galleria Paolo Maria Deanesi, Trento 2016)
+(Tratto da: testo critico mostra De luce lucem proferens, Galleria Paolo Maria Deanesi, Trento 2016)
 
