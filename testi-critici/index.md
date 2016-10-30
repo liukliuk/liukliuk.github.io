@@ -13,12 +13,6 @@ Il recente passaggio alla natura morta di più tradizionale concezione non era a
 Daniela Ferrari - (Tratto dal catalogo mostra Della natura, della figura e il volto, Palazzo Trentini, Trento, 2015)
 
 
-
-
-
-
-
-
 2016
 
 L'attento dosaggio di chiaro e oscuro che in tutta la storia dell'arte pittorica e grafica ha assunto innumerevoli
@@ -38,5 +32,5 @@ stratificazioni di grafite e microsfumature sui toni del nero, assume le sembian
 neppure i barlumi di lucentezze riflesse riescono a ravvivare.
  
  
-(Tratto da: testo critico mostra De luce lucem proferens, Galleria Paolo Maria Deanesi, Trento 2016)
+Gabriele Salvaterra - (Tratto da: testo critico mostra De luce lucem proferens, Galleria Paolo Maria Deanesi, Trento 2016)
 
