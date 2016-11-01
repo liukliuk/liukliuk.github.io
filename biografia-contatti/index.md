@@ -21,6 +21,3 @@ Prosegue gli studi al Biennio specialistico e nel 2012 consegue io diploma accad
 
 2016: "De luce lucem proferens", Luca Pianella/Luciano Zanoni, Galleria Paolo Maria Deanesi, Trento
       ArtVerona (Verona)
-
-
-
