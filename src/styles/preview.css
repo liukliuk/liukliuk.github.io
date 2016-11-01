@@ -1,13 +1,37 @@
-.preview-container {
+@keyframes translateScroll {
+  0% {
+    opacity: 0;
+    transform: none;
+  }
+
+  25% {
+    transform: translate3d(10%, 0, 0);
+    opacity: 1;
+  }
+
+  100% {
+    transform: translate3d(-15%, 0, 0);
+    transform: none;
+  }
+}
+
+#preview-container {
   display: flex;
   flex-wrap: nowrap;
-  align-items: center;
-  justify-content: center;
+
+  /* horizontal scroll */
+  overflow-y: hidden;
+  overflow-x: scroll;
+  white-space: nowrap;
 }
 
 .preview-item {
   margin: 2px;
   flex: 1 1 auto;
+
+  /* animate scroll so user can see there are more photos */
+  animation-name: translateScroll;
+  animation-duration: 12s;
 }
 
 .preview-item img {

@@ -35,6 +35,7 @@
   "homepage": "http://lucapianella.it",
   "dependencies": {
     "autoprefixer": "^6.5.0",
+    "cssnano": "^3.8.0",
     "lightbox2": "^2.8.2",
     "normalize.css": "^5.0.0",
     "postcss-cli": "^2.6.0",
