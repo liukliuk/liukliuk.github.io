@@ -16,6 +16,7 @@ Nel 2012 consegue il diploma accademico di II livello in Arti Visive.
  
  
  
+ 
  2010: "Premio Arte", (vicitore sezione Grafica-accademia), Palazzo della Permanente, Milano
 
 2013-'14: Arte Fiera Piacenza 
