@@ -26,5 +26,5 @@ Nel 2012 consegue il diploma accademico di II livello in Arti Visive.
  
  
                                                                                                                                Contatti : 
-                                                                                                                                                                                                                                                             www.paolomariadeanesi.it
-                                                                                                                                                                                                                                                         gallery@paolomariadeanesi.it
+                                                                                                                                                                                                       www.paolomariadeanesi.it
+                                                                                                                                                                                                      gallery@paolomariadeanesi.it
