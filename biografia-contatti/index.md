@@ -16,12 +16,17 @@ Nel 2012 consegue il diploma accademico di II livello in Arti Visive.
  
  
  
- 
-2013-'14: Arte Fiera Piacenza
-             Arte Fiera Cremona 
-2015: Mostra collettiva: Della natura, della figura e il volto, a cura di D. Ferrari/G. Rocca, Palazzo Trentini, Trento 
-        In occasione di EXPOINCITTA' è stato invitato al "Premio Dino Sangalli", a cura di Stefano Crespi, Palazzo Bovara, Milano
-2016: De Luce Lucem Proferem, Luca Pianella - Luciano Zanoni,  Galleria Paolo Maria Deanesi, Trento
+ 2010: "Premio Arte", (vicitore sezione Grafica-accademia), Palazzo della Permanente, Milano
+
+2013-'14: Arte Fiera Piacenza 
+          Arte Fiera Cremona 
+
+2015: "Della natura, della figura e il volto", a cura di D. Ferrari/G. Rocca, Palazzo Trentini (TN) 
+      In occasione di EXPOINCITTA'è stato invitato al "Premio Dino Sangalli", a cura di Stefano Crespi, Palazzo Bovara, Milano 
+      ArtVerona (Verona)
+
+2016: "De luce lucem proferens", Luca Pianella/Luciano Zanoni, Galleria Paolo Maria Deanesi, Trento
+       ArtVerona (Verona)
  
  
  
