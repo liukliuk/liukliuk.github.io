@@ -8,17 +8,10 @@ title: Home page
 <script>
   var cover = document.getElementById('cover')
 
-  var possibleBackgrounds = [
-    'opere/ombre/Ombre-3-2012-matita-su-carta-50x60',
-    'opere/ombre-volti/Ombre-VII-2016-matita-su-carta-70x70',
-    'opere/ombre-volti/Ombre-V-2016-matita-su-carta-70x70',
-    'opere/ombre/Ombre-9-2014-matita-su-carta-45x45'
-  ]
-
-  var randomIndex = Math.floor(Math.random() * possibleBackgrounds.length)
+  var backgroundImage = '{{ site.homepageImage }}';
 
   var preview = ''
   if (window.innerWidth < 680) { preview = '-anteprima' }
 
-  cover.style.backgroundImage = "url('" + possibleBackgrounds[randomIndex] + preview + ".jpg')"
+  cover.style.backgroundImage = "url('" + backgroundImage + preview + ".jpg')"
 </script>

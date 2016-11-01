@@ -2,6 +2,8 @@ url: http://lucapianella.it
 encoding: utf-8
 
 exclude:
+  - npm-debug.log
+  - node_modules
   - package.json
   - postcss.json
   - README.md
@@ -11,3 +13,5 @@ gems:
   - jekyll-sitemap
 
 markdown: kramdown
+
+homepageImage: opere/ombre/Ombre-3-2012-matita-su-carta-50x60
