@@ -23,6 +23,12 @@
     <li><a href="/testi-critici">Testi Critici</a></li>
   {% endif %}
 
+  {% if page.title == "Biografia/Contatti" %}
+    <li><a class="current-page" href="javascript:void(0)">Biografia/Contatti</a></li>
+  {% else %}
+    <li><a href="/biografia-contatti">Biografia/Contatti</a></li>
+  {% endif %}
+
   <li class="icon">
     <a href="javascript:void(0)" onclick="expandNav()">&#9776</a>
   </li>
