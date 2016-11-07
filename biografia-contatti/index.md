@@ -14,7 +14,7 @@ Vive e lavora a Genova.
   - Arte Fiera Cremona
 * 2015:
   - *Della natura, della figura e il volto*, a cura di D. Ferrari/G. Rocca, Palazzo Trentini (TN)
-  - In occasione di EXPOINCITTÀ è stato invitato al *Premio Dino Sangalli*, a cura di Stefano Crespi, Palazzo Bovara, Milano
+  - EXPOINCITTÀ: *Premio Dino Sangalli*, a cura di Stefano Crespi, Palazzo Bovara, Milano
   - ArtVerona (Verona)
 * 2016:
   - *De luce lucem proferens*, Luca Pianella/Luciano Zanoni, Galleria Paolo Maria Deanesi, Trento
