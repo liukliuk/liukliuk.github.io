@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Testi Critici
+title: Testi
 ---
 
 ## 2016
@@ -22,7 +22,7 @@ stratificazioni di grafite e microsfumature sui toni del nero, assume le sembian
 neppure i barlumi di lucentezze riflesse riescono a ravvivare.
 
 
-> Gabriele Salvaterra - (Tratto da: testo critico mostra *De luce lucem proferens*, Galleria Paolo Maria Deanesi, Trento 2016)
+> Gabriele Salvaterra - (Tratto da: comunicato stampa mostra *De luce lucem proferens*, Galleria Paolo Maria Deanesi, Trento 2016)
 
 
 ## 2015
