@@ -1,18 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <meta charset="{{ site.encoding }}">
-  <meta http-equiv="x-ua-compatible" content="ie=edge">
-  <meta name="author" content="Luca Pianella">
-  <meta name="keywords" content="artista,artist,art,arte,pittura,quadri,pictures">
-  <meta name="description" content="Luca Pianella artist">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-  <title>Luca Pianella - {{ page.title }}</title>
-  <link rel="stylesheet" type="text/css" href="/assets/style.css">
+  {% include meta.html %}
 
-  {% if page.isHomepage %}
-    <meta name="google-site-verification" content="TnaHgygNXyTZgefKJA2xDHzwBeqVX0ohLvNJDduTjjc" />
-  {% endif %}
 </head>
 <body>
   {% include topnav.html %}

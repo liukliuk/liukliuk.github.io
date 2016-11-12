@@ -1,13 +1,10 @@
 url: http://lucapianella.it
 encoding: utf-8
+description: Luca Pianella artist
+author: Luca Pianella
 
 exclude:
-  - npm-debug.log
-  - node_modules
-  - package.json
-  - postcss.json
   - README.md
-  - src
 
 gems:
   - jekyll-sitemap
