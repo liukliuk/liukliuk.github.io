@@ -1,7 +1,7 @@
 
 /* Remove margins and padding from the list */
 ul.topnav {
-  z-index: 100;
+  z-index: 1000;
   height: 3em;
   list-style-type: none;
   margin: 0;
@@ -38,7 +38,9 @@ ul.topnav li ul {
 }
 
 ul.topnav li:hover ul {
+  z-index: 1000;
   display: block;
+  background-color: $transparentBlack;
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -48,7 +50,6 @@ ul.topnav li:hover ul {
 
 ul.topnav li:hover ul li {
   width: 100%;
-  background-color: $transparentBlack;
   float: left;
   clear: left;
 }
@@ -93,14 +94,11 @@ ul.topnav li:hover ul li {
 
   ul.topnav.responsive li ul {
     display: block;
+    background-color: transparent;
     list-style-type: none;
     margin: 0;
     padding: 0 10vw;
     overflow: hidden;
     position: relative;
-  }
-
-  ul.topnav.responsive li:hover ul {
-    background-color: $transparentBlack;
   }
 }
