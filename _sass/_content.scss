@@ -1,7 +1,27 @@
-p {
+.content {
+  position: absolute;
+  top: 4em;
   color: $black;
   line-height: 1.5;
-  margin: 1em auto;
+  margin-left: 10vw;
+  margin-right: 10vw;
   max-width: 80vw;
-  padding: 0 1em;
+  padding: 0;
+
+  ul {
+    list-style-type: none;
+  }
+
+  ul ul {
+    list-style-type: square;
+  }
+
+  ul li a {
+    color: $black;
+    text-decoration: none;
+  }
+
+  ul li a:hover {
+    text-decoration: underline;
+  }
 }

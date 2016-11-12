@@ -1,7 +1,6 @@
 h1,
 h2 {
-  margin-left: 1em;
-  line-height: 1.2;
+  line-height: 2em;
   color: $black;
 }
 
@@ -16,6 +15,7 @@ h2 {
 }
 
 .fadeInLeft {
+  margin-left: 1em;
   animation-name: fadeInLeft;
   animation-duration: 1s;
   padding: 15vh 0;

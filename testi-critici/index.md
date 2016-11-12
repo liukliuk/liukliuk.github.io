@@ -3,6 +3,8 @@ layout: page
 title: Testi Critici
 ---
 
+# Testi Critici
+
 ## 2016
 
 L'attento dosaggio di chiaro e oscuro che in tutta la storia dell'arte pittorica e grafica ha assunto innumerevoli

@@ -3,8 +3,11 @@ layout: page
 title: Biografia/Contatti
 ---
 
+## Biografia
+
 Nato a Genova nel 1985.
-Nel 2004 si iscrive all'*Accademia di Belle Arti di Brera* e nel 2012 consegue il *Diploma accademico di II livello* in *Arti Visive*.    
+Nel 2004 si iscrive all'*Accademia di Belle Arti di Brera* e nel 2012 consegue il *Diploma accademico di II livello* in *Arti Visive*.
+
 Vive e lavora a Genova.
 
 * 2016:
@@ -19,9 +22,6 @@ Vive e lavora a Genova.
   - Arte Fiera Cremona
 * 2010
   - *Premio Arte*, (vicitore sezione Grafica-accademia), Palazzo della Permanente, Milano
-
-
-
 
 ## Contatti
 
