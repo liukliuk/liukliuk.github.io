@@ -5,6 +5,8 @@ ul.topnav {
   height: 3em;
   list-style-type: none;
   margin: 0;
+  position: fixed;
+  width: 100%;
   padding: 0;
   overflow: hidden;
   background-color: $transparentBlack;
