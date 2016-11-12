@@ -7,6 +7,9 @@ isHomepage: true
 <div id="cover"></div>
 
 <script>
+  var cover = document.getElementById('cover')
   var backgroundImage = '{{ site.homepageImage }}'
-  cover.style.backgroundImage = "url('" + backgroundImage + ".jpg')"
+  var preview = ''
+  if (window.innerWidth < 680) { preview = '-anteprima' }
+  cover.style.backgroundImage = "url('" + backgroundImage + preview + ".jpg')"
 </script>
