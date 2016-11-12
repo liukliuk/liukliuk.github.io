@@ -17,8 +17,9 @@
 <body>
   {% include topnav.html %}
 
-  <div class="container">{{ content }}</div>
+  {{ content }}
 
+  {% include lib/lightbox2.html %}
   {% include analytics.html %}
 </body>
 </html>

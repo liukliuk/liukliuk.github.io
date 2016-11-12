@@ -1,6 +1,6 @@
 <ul class="topnav" id="myTopnav">
   {% if page.title == "Home page" %}
-    <li><a class="current-page" href="javascript:void(0)"><em>Luca Pianella</em></a></li>
+    <li><a class="disabled-menu-entry" href="javascript:void(0)"><em>Luca Pianella</em></a></li>
   {% else %}
     <li><a href="/"><em>Luca Pianella</em></a></li>
   {% endif %}
@@ -8,39 +8,31 @@
   <li>
     <a href="javascript:void(0)">Opere</a>
     <ul>
-      {% if page.title == "Ombre" %}
-        <li><a class="current-page" href="javascript:void(0)">Ombre</a></li>
-      {% else %}
-        <li><a href="/opere/ombre">Ombre</a></li>
-      {% endif %}
+      <li><a href="/opere/ombre">Ombre</a></li>
 
-      {% if page.title == "Ombre, volti" %}
-        <li><a class="current-page" href="javascript:void(0)">Ombre, volti</a></li>
-      {% else %}
-        <li><a href="/opere/ombre-volti">Ombre, volti</a></li>
-      {% endif %}
+      <li><a href="/opere/ombre-volti">Ombre, volti</a></li>
     </ul>
   </li>
 
   {% if page.title == "Testi Critici" %}
-    <li><a class="current-page" href="javascript:void(0)">Testi Critici</a></li>
+    {% include disabled-menu-entry.html title=page.title %}
   {% else %}
     <li><a href="/testi-critici">Testi Critici</a></li>
   {% endif %}
 
   {% if page.title == "Biografia/Contatti" %}
-    <li><a class="current-page" href="javascript:void(0)">Biografia/Contatti</a></li>
+    {% include disabled-menu-entry.html title=page.title %}
   {% else %}
     <li><a href="/biografia-contatti">Biografia/Contatti</a></li>
   {% endif %}
 
   <li class="icon">
-    <a href="javascript:void(0)" onclick="expandNav()">&#9776</a>
+    <a href="javascript:void(0)" onclick="toggleNav()">&#9776</a>
   </li>
 </ul>
 
 <script>
-  function expandNav() {
+  function toggleNav() {
     var x = document.getElementById('myTopnav')
 
     if (x.className === 'topnav') {
@@ -49,4 +41,13 @@
         x.className = 'topnav'
     }
   }
+
+  function closeNav() {
+    var x = document.getElementById('myTopnav')
+
+    if (x.className === 'topnav responsive') {
+        x.className = 'topnav'
+    }
+  }
 </script>
+

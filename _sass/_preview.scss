@@ -10,12 +10,13 @@
   }
 
   100% {
-    transform: translate3d(6%, 0, 0);
     transform: none;
   }
 }
 
 #preview-container {
+  position: absolute;
+  top: 50vh;
   display: flex;
   flex-wrap: nowrap;
 
