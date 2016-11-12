@@ -3,3 +3,6 @@ npm-debug.log
 _site/
 node_modules/
 .jekyll-metadata
+Gemfile.lock
+Gemfile
+.sass-cache/

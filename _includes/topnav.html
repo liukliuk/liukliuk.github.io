@@ -5,17 +5,22 @@
     <li><a href="/"><em>Luca Pianella</em></a></li>
   {% endif %}
 
-  {% if page.title == "Ombre" %}
-    <li><a class="current-page" href="javascript:void(0)">Ombre</a></li>
-  {% else %}
-    <li><a href="/opere/ombre">Ombre</a></li>
-  {% endif %}
+  <li>
+    <a href="javascript:void(0)">Opere</a>
+    <ul>
+      {% if page.title == "Ombre" %}
+        <li><a class="current-page" href="javascript:void(0)">Ombre</a></li>
+      {% else %}
+        <li><a href="/opere/ombre">Ombre</a></li>
+      {% endif %}
 
-  {% if page.title == "Ombre, volti" %}
-    <li><a class="current-page" href="javascript:void(0)">Ombre, volti</a></li>
-  {% else %}
-    <li><a href="/opere/ombre-volti">Ombre, volti</a></li>
-  {% endif %}
+      {% if page.title == "Ombre, volti" %}
+        <li><a class="current-page" href="javascript:void(0)">Ombre, volti</a></li>
+      {% else %}
+        <li><a href="/opere/ombre-volti">Ombre, volti</a></li>
+      {% endif %}
+    </ul>
+  </li>
 
   {% if page.title == "Testi Critici" %}
     <li><a class="current-page" href="javascript:void(0)">Testi Critici</a></li>
