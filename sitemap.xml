@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>{{ site.url }}/</loc>
+</url>
+<url>
+<loc>{{ site.url }}/opere/ombre/</loc>
+</url>
+<url>
+<loc>{{ site.url }}/opere/ombre-nature-morte/</loc>
+</url>
+<url>
+<loc>{{ site.url }}/opere/ombre-volti/</loc>
+</url>
+<url>
+<loc>{{ site.url }}/opere/ruggine/</loc>
+</url>
+<url>
+<loc>{{ site.url }}/testi-critici/</loc>
+</url>
+<url>
+<loc>{{ site.url }}/biografia-contatti/</loc>
+</url>
+</urlset>

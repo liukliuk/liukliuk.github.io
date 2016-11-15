@@ -1,14 +1,21 @@
 url: http://lucapianella.it
 encoding: utf-8
+
 description: Luca Pianella artist
 author: Luca Pianella
 
 exclude:
   - README.md
 
-gems:
-  - jekyll-sitemap
-
 markdown: kramdown
 
 homepageImage: opere/ombre/Ombre-10-2014-matita-su-carta-50x55-Nicola-Eccher
+
+sass:
+  style: compressed
+
+collections:
+  opere:
+    output: true
+    permalink: ./:collection/:path.html
+

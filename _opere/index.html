@@ -1,0 +1,11 @@
+---
+layout: page
+title: All works
+isAllWorks: true
+---
+
+{% for page in site.opere %}
+  {% unless page.isAllWorks %}
+    <h1 class="fadeInLeft"><a href={{ page.id }}>{{ page.title }}</a></h1>
+  {% endunless %}
+{% endfor %}

@@ -66,7 +66,7 @@ ul.topnav li:hover ul li {
 /* The "responsive" class is added to the topnav with JavaScript when the user clicks on the icon. This class makes the topnav look good on small screens */
 @media screen and (max-width: $mobile-break-point) {
   ul.topnav.responsive {
-    position: fixed;
+    position: absolute;
     left: 0wh;
     top: 0vh;
     width: 100%;
