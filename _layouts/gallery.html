@@ -2,12 +2,15 @@
 <html>
 <head>
   {% include meta.html %}
-
 </head>
 <body>
   {% include topnav.html %}
 
-  {{ content }}
+  <h1 class="fadeInLeft">{{ page.title }}</h1>
+
+  <div id="preview-container">
+    {{ content }}
+  </div>
 
   {% include lib/lightbox2.html %}
   {% include analytics.html %}

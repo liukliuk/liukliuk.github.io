@@ -1,3 +1,4 @@
+
 @keyframes translateScroll {
   0% {
     opacity: 0;
@@ -5,43 +6,38 @@
   }
 
   25% {
-    transform: translate3d(4%, 0, 0);
     opacity: 1;
   }
 
   100% {
-    transform: none;
+    transform: translate3d(4%, 0, 0);
   }
 }
 
 #preview-container {
-  position: absolute;
-  top: 50vh;
-  display: flex;
-  flex-wrap: nowrap;
-
-  /* horizontal scroll */
-  overflow-y: hidden;
-  overflow-x: auto;
+  overflow: auto;
   white-space: nowrap;
+
+  a {
+    /* animate scroll so user can see there are more photos */
+    animation-name: translateScroll;
+    animation-duration: 12s;
+
+    display: inline-block;
+
+    img {
+      width: 17rem;
+    }
+  }
 }
 
-.preview-item {
-  margin: 2px;
-  flex: 1 1 auto;
-
-  /* animate scroll so user can see there are more photos */
-  animation-name: translateScroll;
-  animation-duration: 12s;
-}
-
-.preview-item img {
-  width: 17rem;
-}
-
-@media only screen and (max-width: 768px) {
-  .preview-item img {
-    width: 8rem;
+@media only screen and (max-width: $mobile-break-point) {
+  #preview-container {
+    a {
+      img {
+        width: 8rem;
+      }
+    }
   }
 }
 
