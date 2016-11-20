@@ -6,10 +6,6 @@
 <body>
   {% include topnav.html %}
 
-  {% unless page.isHomepage %}
-    <h1 class="fadeInLeft">{{ page.title }}</h1>
-  {% endunless %}
-
   <div id="preview-container">
     {{ content }}
   </div>
