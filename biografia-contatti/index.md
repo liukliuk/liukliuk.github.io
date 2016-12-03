@@ -17,7 +17,7 @@ Vive e lavora a Genova.
   - ArtVerona, Verona
 * 2015:
   - *Della natura, della figura e il volto*, a cura di D. Ferrari/G. Rocca, Palazzo Trentini, Trento
-  - EXPOINCITTÀ: Selezionato al *Premio Dino Sangalli*, a cura di Stefano Crespi, Palazzo Bovara, Milano
+  - *Expoincittà*, Selezionato al *Premio Dino Sangalli*, a cura di Stefano Crespi, Palazzo Bovara, Milano
   - ArtVerona, Verona
 * 2013-'14:
   - Arte Fiera Piacenza
