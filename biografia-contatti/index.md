@@ -11,17 +11,19 @@ Nel 2004 si iscrive all'*Accademia di Belle Arti di Brera* e nel 2012 consegue i
 Vive e lavora a Genova.
 
 * 2016:
+  - *HO(M)me*, Galleria Paolo Maria Deanesi, Trento
+  - *Arteam Cup* (selezionato mostra finale), a cura di Matteo Galbiati/Linda Savorelli, Palazzo del Monferrato, Alessandria
   - *De luce lucem proferens*, Luca Pianella/Luciano Zanoni, Galleria Paolo Maria Deanesi, Trento
-  - ArtVerona (Verona)
+  - ArtVerona, Verona
 * 2015:
-  - *Della natura, della figura e il volto*, a cura di D. Ferrari/G. Rocca, Palazzo Trentini (TN)
+  - *Della natura, della figura e il volto*, a cura di D. Ferrari/G. Rocca, Palazzo Trentini, Trento
   - EXPOINCITTÀ: Selezionato al *Premio Dino Sangalli*, a cura di Stefano Crespi, Palazzo Bovara, Milano
-  - ArtVerona (Verona)
+  - ArtVerona, Verona
 * 2013-'14:
   - Arte Fiera Piacenza
   - Arte Fiera Cremona
 * 2010
-  - *Premio Arte*, (vicitore sezione Grafica-accademia), Palazzo della Permanente, Milano
+  - *Premio Arte* (vicitore sezione Grafica-accademia), Palazzo della Permanente, Milano
 
 ## Contatti
 
