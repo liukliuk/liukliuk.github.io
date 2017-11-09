@@ -10,6 +10,9 @@ Nel 2004 si iscrive all'*Accademia di Belle Arti di Brera* e nel 2012 consegue i
 
 Vive e lavora a Genova.
 
+* 2017:
+  - *Premio Arti Visive San Fedele, (Menzione speciale), a cura di A. Dall'Asta, Galleria San Fedele, Milano
+  - *Arteam Cup* (selezionato mostra finale), a cura di Matteo Galbiati/Linda Savorelli, BonelliLAB, Canneto sull'Oglio, Mantova
 * 2016:
   - *HO(M)me*, Galleria Paolo Maria Deanesi, Trento
   - *Arteam Cup* (selezionato mostra finale), a cura di Matteo Galbiati/Linda Savorelli, Palazzo del Monferrato, Alessandria
