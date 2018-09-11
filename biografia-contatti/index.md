@@ -3,7 +3,7 @@ layout: page
 title: Biografia/Contatti
 ---
 
-## Biografia
+# Biografia
 
 Nato a Genova nel 1985.
 Nel 2004 si iscrive all'*Accademia di Belle Arti di Brera* e nel 2012 consegue il *Diploma accademico di II livello* in *Arti Visive*.
