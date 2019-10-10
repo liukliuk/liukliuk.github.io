@@ -10,8 +10,14 @@ Nel 2004 si iscrive all'*Accademia di Belle Arti di Brera* e nel 2012 consegue i
 
 Vive e lavora a Genova.
 
+* 2019:
+  -	*Nigrum nigrius nigro*, Ettore Frani/Luca Pianella, Galleria Paolo Maria Deanesi (Trento)
+* 2018:
+  -	*Premio Devotio* (vincitore), a cura di C. Manenti/A. Dall'Asta
+  - *La bellezza del Crocifisso*, stand Fondazione Card. Giacomo Lercaro, BolognaFiere (Bologna)
+  -	ArtVerona (Verona)                                                                                                                  
 * 2017:
-  - *Premio Arti Visive San Fedele, (Menzione speciale), a cura di A. Dall'Asta, Galleria San Fedele, Milano
+  - *Premio Arti Visive San Fedele*, (Menzione speciale), a cura di A. Dall'Asta, Galleria San Fedele, Milano
   - *Arteam Cup* (selezionato mostra finale), a cura di Matteo Galbiati/Linda Savorelli, BonelliLAB, Canneto sull'Oglio, Mantova
 * 2016:
   - *HO(M)me*, Galleria Paolo Maria Deanesi, Trento
