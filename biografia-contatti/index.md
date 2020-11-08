@@ -13,7 +13,7 @@ Vive e lavora a Genova.
 * 2019:
   -	*Nigrum nigrius nigro*, Ettore Frani/Luca Pianella, Galleria Paolo Maria Deanesi (Trento)
 * 2018:
-  -	*Premio Devotio* (vincitore), a cura di C. Manenti/A. Dall'Asta
+  -	*Premio Percorsi di riavvicinamento - Devotio* (vincitore), a cura di C. Manenti/A. Dall'Asta
   - *La bellezza del Crocifisso*, stand Fondazione Card. Giacomo Lercaro, BolognaFiere (Bologna)
   -	ArtVerona (Verona)                                                                                                                  
 * 2017:
@@ -38,4 +38,4 @@ Vive e lavora a Genova.
 
 * [www.paolomariadeanesi.it](http://www.paolomariadeanesi.it)
 * [gallery@paolomariadeanesi.it](mailto:gallery@paolomariadeanesi.it)
-
+* [lucapianella@libero.it](mailto:lucapianella@libero.it)
